@@ -1,0 +1,6 @@
+
+
+run = "node server.js"
+
+[nix]
+channel = "stable-22_11"
